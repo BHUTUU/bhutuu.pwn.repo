@@ -17,5 +17,5 @@ source <(curl -fsSL "https://git.io/JDsJh") --remove
 # Usage
 * ```apt install <package name>```
 
-```        THANKU👻❣️👻
-```
+ ```       THANKU👻❣️👻       ```
+
