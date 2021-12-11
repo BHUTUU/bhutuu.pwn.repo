@@ -1,0 +1,75 @@
+Package: T-fetch
+Architecture: aarch64
+Version: 2.0
+Installed-Size: 532
+Maintainer: Suman Kumar ~BHUTUU
+Homepage: https://github.com/BHUTUU/T-fetch
+Depends: bc, jq, termux-api
+Description: A decent fetch written in bash with a cute BHUTUU emog ascii image.
+Filename: dists/bhutuu/main/binary-aarch64/T-fetch.aarch64.deb
+Size: 1016
+MD5Sum: ac914bcc6950d5b7c31d7c353477ce4f
+SHA1: 061ed3dad199c05261d8b46a9c41902b4e17ddb3
+SHA256: d63e7230f9a988dedab0ae8615d681e115beea62c8422db4f6ab3086558ffb57
+SHA512: b67c21308101ad882f054c35bb1275757d617f0793bce412593dd24505028c09ea8c12875c9d5a79ee6dc29b7e12e826e8541d95e9c02167af15d4c249b41348
+
+Package: TSconsole
+Architecture: aarch64
+Version: 3.0
+Instaarch64ed-Size: 96552
+Maintainer: Suman Kumar ~BHUTUU
+Homepage: https://github.com/BHUTUU/TSconsole-framework
+Depends: python, python2, sox, php, pv, proot, ncurses-utils, termux-exec, termux-tools
+Description: A framework of pentesting programs.
+Filename: dists/bhutuu/main/binary-aarch64/TSconsole-framework.aarch64.deb
+Size: 1464
+MD5Sum: 7d1dd87fd60460c304538e1bbfd71410
+SHA1: b064d56f811d13e1e1e6c8c7f409f0e47fffd2de
+SHA256: fb86219f9aa87fd4e10ed00be94a99c6562d4cd8d1b9fd91ae5f4fafd25cb754
+SHA512: 9a5e4190d59f4e1ee5d888661c0fa58b0c7191ac157b96b256a84117287bda4fbb494442f32045807751f94246bedf16d3d7df8fe8910de596a9de770ac04f81
+
+Package: cloudflare
+Architecture: aarch64
+Version: 1.0
+Installed-Size: 388
+Maintainer: Suman Kumar ~BHUTUU
+Homepage: https://github.com/BHUTUU/cloudflare-ui
+Depends: git, wget, curl, jq
+Description: User interface for cloudflared, an http port forwarding client.
+Filename: dists/bhutuu/main/binary-aarch64/cloudflare.aarch64.deb
+Size: 1292
+MD5Sum: 34830e46fb65a96d177c0c5b03595fb6
+SHA1: 53d0b6f829d626ac4fdf626782637f471baf714d
+SHA256: 9939508438bc8051a4710cfc8f991962143a1346011ef0e306db9bd5d4d6834b
+SHA512: 78cb9fb64d38c74bdc6f9f9c8dadbe1127b19c1520250c2ab9fb1f09c2c2a83e5b6b1cb826c2614b852e2eed178d2d32a755fce6c2010c3640d6faa130b07531
+
+Package: dictionary
+Architecture: aarch64
+Version: 1.0
+Installed-Size: 96
+Maintainer: Suman Kumar ~BHUTUU
+Homepage: https://github.com/BHUTUU/dictionary
+Depends: python, python2, pv, sox, git, wget, curl
+Description: A dictionary made in bash and python to find meanings of any word esily using termux command line.
+Filename: dists/bhutuu/main/binary-aarch64/dictionary.aarch64.deb
+Size: 1376
+MD5Sum: 83f1f26660ee63fc5dbd127c4366561a
+SHA1: 0f306c2c5e03fc2c946fb0507fa65c00f622f6a6
+SHA256: 4b9200ea52a0f5e56d65c554e4c0775051677de18d7419cfc12d945bf29d933a
+SHA512: a6b67b5ccc50ab3caff4def449bb27208616c16b5f31943ac8ad73b5b5bc1f107d975095b5a2112d40ada91c9bef310df01d035f13acd12bfd1b3edb58ba4ac2
+
+Package: liveserver
+Architecture: aarch64
+Version: 1.0
+Installed-Size: 464
+Maintainer: Suman Kumar ~BHUTUU
+Homepage: https://github.com/BHUTUU/liveserver
+Depends: php
+Description: A program automating php server for localhost:8080.
+Filename: dists/bhutuu/main/binary-aarch64/liveserver.aarch64.deb
+Size: 1408
+MD5Sum: c015a084dfc484a1b03fb303f8e4dba6
+SHA1: e63cf9ac24844b031f3fa6d79c8b24ebaac0af32
+SHA256: 6d8133f18d82b24da5ed43bae2ae274d514e37f80baba26a3379e5572f8d9364
+SHA512: c1903331d3fa7399c75f3ae78cf7751b20ff08673b0ca6c2a0c2227f95e50a4e45b59ff4d4c835373cb0cb9be190735bcd727199390bee9ac448de0b99275ad2
+
