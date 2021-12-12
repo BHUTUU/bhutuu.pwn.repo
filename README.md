@@ -1,5 +1,5 @@
-# bhutuu.repo
-My repository for aptitude
+# bhutuu.pwn.repo
+My repository for aptitude for pwn-term
 # Installation
 ```
 source <(curl -fsSL "https://git.io/JMn0r") --install
