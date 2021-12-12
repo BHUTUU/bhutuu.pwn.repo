@@ -8,10 +8,10 @@ Depends: python, python2, sox, php, pv, proot, ncurses-utils, termux-exec, termu
 Description: A framework of pentesting programs.
 Filename: dists/bhutuu/main/binary-i686/TSconsole-framework.i686.deb
 Size: 1460
-MD5Sum: 028d9dba34a9e368d549d484f8096890
-SHA1: 854423341aa73198bea128e4469c30bf7799e197
-SHA256: 7d0641fd11cdf307e8d424efe5c1e7344c93505a602fc2a7f9e7c1f2fec3be6f
-SHA512: 3e61d9cef4ac7f53ec99601914632275ec5d85ba11a3d5db26f7de63d9787cf4056c50a31bf41bb1e7f82a8a4ae60f8d2c2d956100c6d1353cb40235ea9e3734
+MD5Sum: b204d0be6945062126830cc215b68a7d
+SHA1: c58e30bff7ad4a42c7623db758a0cf02e0bbadc7
+SHA256: 0b739be461e7b8a44218ece46d3241e575881c5d75004abe1b4dcaa3c8c40156
+SHA512: 8395f67d1a60dc8dda68398f04e0c319a6ef64f9522175bc9ec394e3d6994d7816c8ee3a21b2336e97cc5c6ec850303bb54ebaf20db878dbed45b966395c5165
 
 Package: cloudflare
 Architecture: i686
@@ -23,10 +23,10 @@ Depends: git, wget, curl, jq
 Description: User interface for cloudflared, an http port forwarding client.
 Filename: dists/bhutuu/main/binary-i686/cloudflare.i686.deb
 Size: 1284
-MD5Sum: 7cb708c320cb84a1e65cf546dc791eec
-SHA1: 1bca1b2dba57fe1ade6e3c7f6549c8c189394335
-SHA256: 261b378b2443c8425f5ecc1a6164d645ab3b2337f6f95d92811ab8261dafd0cc
-SHA512: 44a8814d1a5b28a6b39f74b03f8828854d4bc904c43b11224a5e957556e690ba3120d331c0c3d1e85e5d74cb931f7c38724475cc33b0196ede13c08dc21465e8
+MD5Sum: a8173efb53b00af59f046f65aaa731f1
+SHA1: b2ca133573f635f49b8974f58b38abaf6f0fb4c3
+SHA256: f39aedd46169341d05dd6603b0d8021dd230be011aeb5cca566b08f6938a329c
+SHA512: 5dcfb94a63f68569d8f29b438c427347401940222b7c096e0d150ef92fb76a9faac0597d96f3904922451b612c37bc2674eecddff460bb64a7f4c873dc0a0387
 
 Package: dictionary
 Architecture: i686
@@ -38,10 +38,10 @@ Depends: python, python2, pv, sox, git, wget, curl
 Description: A dictionary made in bash and python to find meanings of any word esily using termux command line.
 Filename: dists/bhutuu/main/binary-i686/dictionary.i686.deb
 Size: 1368
-MD5Sum: 9f4ab567170662c82d50b76b11b608d0
-SHA1: 4f1b3a650fdcdf2c731f037e784bed6b0e441e75
-SHA256: 6c19445b8e18924ebd4ec98ca0ebba47a7801187d35ffc581e381ec68d6e878a
-SHA512: 865adca4053ac16e5fafe01bd4217e3769f10a98147a882121b899e13a5557fbdfecd6f09e091b95a470042afee6fd8fdf2afdb045562690530b615a0449abb2
+MD5Sum: e7b93dbd31822851068915f7a6e601ec
+SHA1: d14795a82c42af79b33cd69a51bf5cd568507011
+SHA256: 874e78ff97ac3dc82cc29ada2d05891d9fd74b3c43123b876795965ec15fa187
+SHA512: d053ec5d07cd1fd83ccaddd01be812a7cb217b462ad5e57da4daa26fa5ece72066f3a6c4600bc98a4f153dbbeb16c215a9f2f0aee1330ce38b63a838037386cc
 
 Package: liveserver
 Architecture: i686
@@ -53,8 +53,8 @@ Depends: php
 Description: A program automating php server for localhost:8080.
 Filename: dists/bhutuu/main/binary-i686/liveserver.i686.deb
 Size: 1404
-MD5Sum: 87097828db1ea1381fdb7c0d94def5aa
-SHA1: c443da55b1e8360e525a747fe501bba147d82ca0
-SHA256: 713d9ef84921f3e7c71a3fde4bb5fce2087e5824c11f71659f172b6953e094f3
-SHA512: 9f8649a4310c59e2b9b3f0a41f658e6794e413101014a2548e34879db757d84ad371d318a45ab5daa90a73791a3afd3119f08057a23cb0f55f7f4694b2b04d9d
+MD5Sum: b8b57da5b20a4c5b1dd3c5a22d7ed346
+SHA1: 666e033b3135afca94006599b056b15b92fc3c13
+SHA256: f5d6207cfdd239fc21df43deb2758d108e5ef51407fa1599ef135e0ae85a4d67
+SHA512: f399d73987c98a896604cef000c563c908b6795ca41ad0d719c09d5bd19b730e87ab1b60b157efedf8b98082293a2db7d8bc6381b53c75923ded09f8d1eb14a9
 

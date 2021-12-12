@@ -7,11 +7,11 @@ Homepage: https://github.com/BHUTUU/TSconsole-framework
 Depends: python, python2, sox, php, pv, proot, ncurses-utils, termux-exec, termux-tools
 Description: A framework of pentesting programs.
 Filename: dists/bhutuu/main/binary-arm/TSconsole-framework.arm.deb
-Size: 1460
-MD5Sum: 50e5caf90cf9a61317fa25ad502c0697
-SHA1: 6a5f4c87b05d3ed681c322368b93882c2f279ea5
-SHA256: 730928f786be0749caa23d6f2c7dc882961a26f63cb388bb300622132a571960
-SHA512: 3e8f7145106e39c0031e3457a0476554dc370e900e0b2fdfd60ebd56cd755a327c88ddf95f8617845d15c5f3bebf341b97a6be1d731de75caf7f0b0746286708
+Size: 1456
+MD5Sum: 580ff60b345b19604b04a080f90d3cad
+SHA1: 1342e4c5d921666a7f026cdb63458c73a9833226
+SHA256: ba8a97540b7a1ff546d365fd8c7f8dc11f386d7132abf1b033b86e5b0bd10cc9
+SHA512: 32691176ebf5c374d1d6b7bc9a4c5ede8f367599c33b4a381d094a54ff369ebdb3827293f71d3863887681a896de3f6096e6204713efcaa3185f73f5e4b3de8d
 
 Package: cloudflare
 Architecture: arm
@@ -23,10 +23,10 @@ Depends: git, wget, curl, jq
 Description: User interface for cloudflared, an http port forwarding client.
 Filename: dists/bhutuu/main/binary-arm/cloudflare.arm.deb
 Size: 1280
-MD5Sum: a16cb7deab928e17afa219121fbe3a7d
-SHA1: 4b57950bcc1fb903466d9505ed7ea11f7b9c871e
-SHA256: 644c50305addd844d42f43cb09ce90f6774b29dcfc0bfc709c8d9b2ebff30620
-SHA512: 5b65d97f90cbdfb6bfb7cff4210b5655e05f814d35413d403dd62996fc348dc07dbf3ca43ee4bfa9f25a099add76cec50c80ff41099f3761980fd42885534177
+MD5Sum: 5c5904439aca4fec897fe693a15dabf6
+SHA1: 29b5c583598d4cd8eb387d999b0869466d5a3423
+SHA256: 1f7c9ca6817bfc4d5010dd264f6f4d7ae3540750b8e4688270196d7f96d9e807
+SHA512: 4b76716a48a77a53e9be31b8034fc2f3fab6078ac5255268861e283fbd17849061774dd06786300cdf8b8307a1b5f587d2111454307f2e8803b0f70a18bca280
 
 Package: dictionary
 Architecture: arm
@@ -37,11 +37,11 @@ Homepage: https://github.com/BHUTUU/dictionary
 Depends: python, python2, pv, sox, git, wget, curl
 Description: A dictionary made in bash and python to find meanings of any word esily using termux command line.
 Filename: dists/bhutuu/main/binary-arm/dictionary.arm.deb
-Size: 1364
-MD5Sum: 7b1689e7e91143421835f63dc1cc19f4
-SHA1: f8cde624ae557cd3d2e518e43cd163b9a54207d7
-SHA256: 6e82829e5665f9c7645aa4737dd4edf9d2e170817decfa3c24331d8902246ccd
-SHA512: ed2b4eed73afa973fd187162dd3ae3c509d24f8dac8eef166cb38de0aa0c77c41dcb6b760e5086de604d5b8345e46a9a65a915337e087d97f73206f4954ebe2d
+Size: 1368
+MD5Sum: 6396ed35cf301c1dd102830ec6129985
+SHA1: 880e182735cbce2ee214a14a3267e6a12912297d
+SHA256: d354fa5264297a734c84f2b276d8ec53e71ab93dab0ebb2b005ab5130f604867
+SHA512: 0313c73a4c5c4785c1560b1db1ee4f6d73189f7ab8d536819af10b06b4d7c17e67ec6a0ea7806e16d3b77725742c01f1c715376ed35ec6c2291a9ac79e80adb5
 
 Package: liveserver
 Architecture: arm
@@ -53,8 +53,8 @@ Depends: php
 Description: A program automating php server for localhost:8080.
 Filename: dists/bhutuu/main/binary-arm/liveserver.arm.deb
 Size: 1404
-MD5Sum: 889130e0854d92366d82375f970a71dd
-SHA1: 7a7ce382fc97abb063c65ed53bd555a3ed57280e
-SHA256: b222d44c12d079fba5731dede7e172e1751284c3ce5cc2b19dbe6ab21caa8715
-SHA512: 25eb15b3e1db54211d2fecdde46127377bd0f3a25086bd9817ca33af5cee1cf02e6065802fea8a97e328ee0796b926c28d28db44bd7e606836a165470748d2d5
+MD5Sum: c13e33c807c74921956a2b6207b476df
+SHA1: 75c85869ace24b9e3feee3d880a563a56155910f
+SHA256: f3dac33f0612474341dea0f31db1dc35ff0598192cb77def613dee1eedc91ed5
+SHA512: 503e46df98f5922643c6f891168c44e71bdc54a344098e538bcc80552aaa3e2dcb35e147a46f33e4d2c852548bdcb4c63ffd5f00e9d27313b1af29b9b1cd8d5f
 
