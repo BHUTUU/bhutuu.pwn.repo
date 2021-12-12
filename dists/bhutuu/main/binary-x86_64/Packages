@@ -1,0 +1,60 @@
+Package: TSconsole
+Architecture: x86_64
+Version: 3.0
+Instx86_64ed-Size: 96552
+Maintainer: Suman Kumar ~BHUTUU
+Homepage: https://github.com/BHUTUU/TSconsole-framework
+Depends: python, python2, sox, php, pv, proot, ncurses-utils, termux-exec, termux-tools
+Description: A framework of pentesting programs.
+Filename: dists/bhutuu/main/binary-x86_64/TSconsole-framework.x86_64.deb
+Size: 1464
+MD5Sum: cdb53a82bc9c7d8dfd7adbfb3d39c562
+SHA1: 02ac992d9161a287cee705d98081077843257c4a
+SHA256: 1f060f27e2704f4c714d1db9c869bb4104c7dd25f1c88b4d8188efd13d7b9725
+SHA512: 766259a31b23bdb98e583c7375860caa2e1d515f167628d31042c03f7afb810385cf3c621f2943a59461f06fdc1c8848d64a7ce4a477f4e38603d9da2b7809b3
+
+Package: cloudflare
+Architecture: x86_64
+Version: 1.0
+Instx86_64ed-Size: 388
+Maintainer: Suman Kumar ~BHUTUU
+Homepage: https://github.com/BHUTUU/cloudflare-ui
+Depends: git, wget, curl, jq
+Description: User interface for cloudflared, an http port forwarding client.
+Filename: dists/bhutuu/main/binary-x86_64/cloudflare.x86_64.deb
+Size: 1284
+MD5Sum: 57222f5c2bc4bdc69a096e4f0778a468
+SHA1: 4dbf13eaf07757a90a20e4e8416b63ab6f4c668f
+SHA256: d55b0f4cc66df39c8300bcda4a2fd36ae261a0a781113f175887522164a6af1a
+SHA512: b326e646af2ad670c61d34d7b39974daae344c2c6502a9e1745e00faad09130d0fe1474b66b6d67f13518d89213245a083bb5d7ea73b25f8c6872e67d978c9da
+
+Package: dictionary
+Architecture: x86_64
+Version: 1.0
+Instx86_64ed-Size: 96
+Maintainer: Suman Kumar ~BHUTUU
+Homepage: https://github.com/BHUTUU/dictionary
+Depends: python, python2, pv, sox, git, wget, curl
+Description: A dictionary made in bash and python to find meanings of any word esily using termux command line.
+Filename: dists/bhutuu/main/binary-x86_64/dictionary.x86_64.deb
+Size: 1372
+MD5Sum: d22deac2a8665bbbde20b190cc17c6df
+SHA1: 398022ea62dff76ffd5abe10583e747913a19868
+SHA256: 5651119fe8c26876144fcfe984166ce85299c74c4e14090197699441354942e9
+SHA512: c36a0d4688c0f9370695b6373add3642ca3751395701e63b6023b60dae76c008a97aac960b53166b650ae985bd13c43f1618bb799bf4f5ecadd1e451e262b09f
+
+Package: liveserver
+Architecture: x86_64
+Version: 1.0
+Instx86_64ed-Size: 464
+Maintainer: Suman Kumar ~BHUTUU
+Homepage: https://github.com/BHUTUU/liveserver
+Depends: php
+Description: A program automating php server for localhost:8080.
+Filename: dists/bhutuu/main/binary-x86_64/liveserver.x86_64.deb
+Size: 1404
+MD5Sum: 2ab4adae49effbe6e11df057259d47f9
+SHA1: 4da1e9ac158d7a11392282a13413b8531a7a7195
+SHA256: db383c959c0bbacd18e6e4611ef7d0e7bcbc3f73fe73d83269c8f06de101642d
+SHA512: 5ac627b529bc88925d30a90d16aaead77eeba62fe0c7b2175ebb1ca64e8553e620f844ca33e137f5b7fbda560668f1c3f207df8750c16997141bf672c66867c6
+

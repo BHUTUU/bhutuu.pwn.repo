@@ -1,0 +1,60 @@
+Package: TSconsole
+Architecture: i686
+Version: 3.0
+Insti686ed-Size: 96552
+Maintainer: Suman Kumar ~BHUTUU
+Homepage: https://github.com/BHUTUU/TSconsole-framework
+Depends: python, python2, sox, php, pv, proot, ncurses-utils, termux-exec, termux-tools
+Description: A framework of pentesting programs.
+Filename: dists/bhutuu/main/binary-i686/TSconsole-framework.i686.deb
+Size: 1460
+MD5Sum: 028d9dba34a9e368d549d484f8096890
+SHA1: 854423341aa73198bea128e4469c30bf7799e197
+SHA256: 7d0641fd11cdf307e8d424efe5c1e7344c93505a602fc2a7f9e7c1f2fec3be6f
+SHA512: 3e61d9cef4ac7f53ec99601914632275ec5d85ba11a3d5db26f7de63d9787cf4056c50a31bf41bb1e7f82a8a4ae60f8d2c2d956100c6d1353cb40235ea9e3734
+
+Package: cloudflare
+Architecture: i686
+Version: 1.0
+Insti686ed-Size: 388
+Maintainer: Suman Kumar ~BHUTUU
+Homepage: https://github.com/BHUTUU/cloudflare-ui
+Depends: git, wget, curl, jq
+Description: User interface for cloudflared, an http port forwarding client.
+Filename: dists/bhutuu/main/binary-i686/cloudflare.i686.deb
+Size: 1284
+MD5Sum: 7cb708c320cb84a1e65cf546dc791eec
+SHA1: 1bca1b2dba57fe1ade6e3c7f6549c8c189394335
+SHA256: 261b378b2443c8425f5ecc1a6164d645ab3b2337f6f95d92811ab8261dafd0cc
+SHA512: 44a8814d1a5b28a6b39f74b03f8828854d4bc904c43b11224a5e957556e690ba3120d331c0c3d1e85e5d74cb931f7c38724475cc33b0196ede13c08dc21465e8
+
+Package: dictionary
+Architecture: i686
+Version: 1.0
+Insti686ed-Size: 96
+Maintainer: Suman Kumar ~BHUTUU
+Homepage: https://github.com/BHUTUU/dictionary
+Depends: python, python2, pv, sox, git, wget, curl
+Description: A dictionary made in bash and python to find meanings of any word esily using termux command line.
+Filename: dists/bhutuu/main/binary-i686/dictionary.i686.deb
+Size: 1368
+MD5Sum: 9f4ab567170662c82d50b76b11b608d0
+SHA1: 4f1b3a650fdcdf2c731f037e784bed6b0e441e75
+SHA256: 6c19445b8e18924ebd4ec98ca0ebba47a7801187d35ffc581e381ec68d6e878a
+SHA512: 865adca4053ac16e5fafe01bd4217e3769f10a98147a882121b899e13a5557fbdfecd6f09e091b95a470042afee6fd8fdf2afdb045562690530b615a0449abb2
+
+Package: liveserver
+Architecture: i686
+Version: 1.0
+Insti686ed-Size: 464
+Maintainer: Suman Kumar ~BHUTUU
+Homepage: https://github.com/BHUTUU/liveserver
+Depends: php
+Description: A program automating php server for localhost:8080.
+Filename: dists/bhutuu/main/binary-i686/liveserver.i686.deb
+Size: 1404
+MD5Sum: 87097828db1ea1381fdb7c0d94def5aa
+SHA1: c443da55b1e8360e525a747fe501bba147d82ca0
+SHA256: 713d9ef84921f3e7c71a3fde4bb5fce2087e5824c11f71659f172b6953e094f3
+SHA512: 9f8649a4310c59e2b9b3f0a41f658e6794e413101014a2548e34879db757d84ad371d318a45ab5daa90a73791a3afd3119f08057a23cb0f55f7f4694b2b04d9d
+

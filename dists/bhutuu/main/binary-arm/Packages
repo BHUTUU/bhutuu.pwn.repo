@@ -1,0 +1,60 @@
+Package: TSconsole
+Architecture: arm
+Version: 3.0
+Instarmed-Size: 96552
+Maintainer: Suman Kumar ~BHUTUU
+Homepage: https://github.com/BHUTUU/TSconsole-framework
+Depends: python, python2, sox, php, pv, proot, ncurses-utils, termux-exec, termux-tools
+Description: A framework of pentesting programs.
+Filename: dists/bhutuu/main/binary-arm/TSconsole-framework.arm.deb
+Size: 1460
+MD5Sum: 50e5caf90cf9a61317fa25ad502c0697
+SHA1: 6a5f4c87b05d3ed681c322368b93882c2f279ea5
+SHA256: 730928f786be0749caa23d6f2c7dc882961a26f63cb388bb300622132a571960
+SHA512: 3e8f7145106e39c0031e3457a0476554dc370e900e0b2fdfd60ebd56cd755a327c88ddf95f8617845d15c5f3bebf341b97a6be1d731de75caf7f0b0746286708
+
+Package: cloudflare
+Architecture: arm
+Version: 1.0
+Instarmed-Size: 388
+Maintainer: Suman Kumar ~BHUTUU
+Homepage: https://github.com/BHUTUU/cloudflare-ui
+Depends: git, wget, curl, jq
+Description: User interface for cloudflared, an http port forwarding client.
+Filename: dists/bhutuu/main/binary-arm/cloudflare.arm.deb
+Size: 1280
+MD5Sum: a16cb7deab928e17afa219121fbe3a7d
+SHA1: 4b57950bcc1fb903466d9505ed7ea11f7b9c871e
+SHA256: 644c50305addd844d42f43cb09ce90f6774b29dcfc0bfc709c8d9b2ebff30620
+SHA512: 5b65d97f90cbdfb6bfb7cff4210b5655e05f814d35413d403dd62996fc348dc07dbf3ca43ee4bfa9f25a099add76cec50c80ff41099f3761980fd42885534177
+
+Package: dictionary
+Architecture: arm
+Version: 1.0
+Instarmed-Size: 96
+Maintainer: Suman Kumar ~BHUTUU
+Homepage: https://github.com/BHUTUU/dictionary
+Depends: python, python2, pv, sox, git, wget, curl
+Description: A dictionary made in bash and python to find meanings of any word esily using termux command line.
+Filename: dists/bhutuu/main/binary-arm/dictionary.arm.deb
+Size: 1364
+MD5Sum: 7b1689e7e91143421835f63dc1cc19f4
+SHA1: f8cde624ae557cd3d2e518e43cd163b9a54207d7
+SHA256: 6e82829e5665f9c7645aa4737dd4edf9d2e170817decfa3c24331d8902246ccd
+SHA512: ed2b4eed73afa973fd187162dd3ae3c509d24f8dac8eef166cb38de0aa0c77c41dcb6b760e5086de604d5b8345e46a9a65a915337e087d97f73206f4954ebe2d
+
+Package: liveserver
+Architecture: arm
+Version: 1.0
+Instarmed-Size: 464
+Maintainer: Suman Kumar ~BHUTUU
+Homepage: https://github.com/BHUTUU/liveserver
+Depends: php
+Description: A program automating php server for localhost:8080.
+Filename: dists/bhutuu/main/binary-arm/liveserver.arm.deb
+Size: 1404
+MD5Sum: 889130e0854d92366d82375f970a71dd
+SHA1: 7a7ce382fc97abb063c65ed53bd555a3ed57280e
+SHA256: b222d44c12d079fba5731dede7e172e1751284c3ce5cc2b19dbe6ab21caa8715
+SHA512: 25eb15b3e1db54211d2fecdde46127377bd0f3a25086bd9817ca33af5cee1cf02e6065802fea8a97e328ee0796b926c28d28db44bd7e606836a165470748d2d5
+
