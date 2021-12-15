@@ -8,10 +8,10 @@ Depends: python, python2, sox, php, pv, proot, ncurses-utils, termux-exec, termu
 Description: A framework of pentesting programs.
 Filename: dists/bhutuu/main/binary-aarch64/TSconsole-framework.aarch64.deb
 Size: 1452
-MD5Sum: 8a70053334f3971c864c257c5e236f0e
-SHA1: db328a7429b1eea463fb07257249898eaf5f51e8
-SHA256: 8b3d76a42348c4de64b43e9b214bcafb3b96296411468f56e20ede7f2a8d9f2f
-SHA512: fc1a3a438010781f189d9e538a7fe693c538cb209f14da45facab0ed4ad9731a99628b38965bea782abfa4d7be7f33a374dce76de95c1e424700a569cc5c00a6
+MD5Sum: b50d0d4317dafceb9b54db2f32c97008
+SHA1: 76da486b14cea39c947056e59390dda2ff3a0236
+SHA256: 8783cd7b484dce1f7d9ec47d0c6a858ba6cdb6a98bbe1b623326a97d21ef2d6e
+SHA512: 726fc7d3645fd33e637449d86e0519ac5d84734288e6caf4492e2a3b1ae680f6dda2d720fac6a36e80583d560dce5f1bac9c3c9e005f349cffdb5e2c06b515a6
 
 Package: cloudflare
 Architecture: aarch64
@@ -23,10 +23,10 @@ Depends: git, wget, curl, jq
 Description: User interface for cloudflared, an http port forwarding client.
 Filename: dists/bhutuu/main/binary-aarch64/cloudflare.aarch64.deb
 Size: 1272
-MD5Sum: 62519f784a253df47853f48db4dd1aac
-SHA1: 6c3d64ed4e9e3522d1af9d0b82609b3e086e8456
-SHA256: b6e7433ee99e8adb36c586f9819917f5336a1ae39e12af3c09f1797c5832517a
-SHA512: 493e77ebce76c5fd626213bac1d2d35851ba9d7814374f1af20bf4055034dc3732d30b0a0780169c09abc4431b53ccc69271786ad4a3feb2258512edb86a0f99
+MD5Sum: e6328062444daa0cc18dce2da17b06a6
+SHA1: d9e83401e86b00559310d24778a69880861d1c0c
+SHA256: 7f4492e5813e8aba0345a8f0752113de4d7d1ea46addd75a76ac1862ccbbf155
+SHA512: a129d0f533bd915be2e7ec3e1efdb62120da8d6eaf418c30b0b89e473a645ead00f73a6d146392ed96583d2d809060988f3dd1e27f40d610e9aa6c5712ba6c89
 
 Package: dictionary
 Architecture: aarch64
@@ -37,11 +37,11 @@ Homepage: https://github.com/BHUTUU/dictionary
 Depends: python, python2, pv, sox, git, wget, curl
 Description: A dictionary made in bash and python to find meanings of any word esily using termux command line.
 Filename: dists/bhutuu/main/binary-aarch64/dictionary.aarch64.deb
-Size: 1364
-MD5Sum: 3510c1c6e6cbd43cdfbe1dbdfa647b31
-SHA1: 3f3d93b3207a2f6403a907aefa55386987ffd2cc
-SHA256: 02bd5b837b68e0cf1af2d2451c3a1cc585224aa3807da75db53cc3acf6bb73f0
-SHA512: ec9e3b81b937a83c54ea5b0e4bfe9f04d4282d67d11a69e9f2979dff5b9bcebb264c2d37b58aabdf14d918811efab63242069b7786b71f155a086cea29725de2
+Size: 1360
+MD5Sum: a4e0a8a5287da8dd78e86f685fd7648d
+SHA1: e0b88d819fa9aa473cca47e6b3f07b9becfaee31
+SHA256: c679d10c87a59c1818c040af1ce168254f32d93bed79fa43f61db8cf48ad5674
+SHA512: b29f0082adb591c75717c10b50bcc77a7901a32681a0e1613e25a55b4d2c0716fc0a6deb6ea69977bea03591654fd0f7bb3bfbd0c06ae6ec14da203d181ab651
 
 Package: liveserver
 Architecture: aarch64
@@ -52,9 +52,9 @@ Homepage: https://github.com/BHUTUU/liveserver
 Depends: php
 Description: A program automating php server for localhost:8080.
 Filename: dists/bhutuu/main/binary-aarch64/liveserver.aarch64.deb
-Size: 1396
-MD5Sum: 770fce604ab4af7cda6acc3d236b4828
-SHA1: 50e831c7c601a28b62d8c7f3a1d4c0bbfc38bb25
-SHA256: 8b7c44a04267eeecdf2c4573436f807b94b422f0a6ceb1417f1953f93ba947d6
-SHA512: f5951a2d22d1cfaf66ce4fc45a0e52e1a37ac3673850ff4275a86a1a8678c46dea90cd540df38bd529a7954be6481a7ae9182b3bd03bd8950c3a9dc62f4542bf
+Size: 1400
+MD5Sum: a37267ef691836ecb92302dd3a6c8415
+SHA1: 55b20c80023ee3ec46a94ab9a032b9e29040e5ee
+SHA256: 43d9108feb23b6caba9831ac3b7f1cf0fd4feb0ccc913db104145fddfd7f614d
+SHA512: 99e2d0701886a0aced1d4f77facf64f1987ca06d013a0d5273ed53ac9250f85b0d744c63ad516d1c6c7ab8bb64621b0585501c9d22824e7456be2e014cfd7834
 
