@@ -1,60 +1,60 @@
 Package: TSconsole
 Architecture: x86_64
 Version: 3.0
-Instx86_64ed-Size: 96552
+Installed-Size: 96552
 Maintainer: Suman Kumar ~BHUTUU
 Homepage: https://github.com/BHUTUU/TSconsole-framework
 Depends: python, python2, sox, php, pv, proot, ncurses-utils, termux-exec, termux-tools
 Description: A framework of pentesting programs.
 Filename: dists/bhutuu/main/binary-x86_64/TSconsole-framework.x86_64.deb
-Size: 1464
-MD5Sum: 33a9ed5dc3e959ababa91a908fce4181
-SHA1: a3b9d292bc74b24faba61cb580633f104996d293
-SHA256: 944105b5eb601545416ce1b3ad62f03945eecc49a22743990085aa9470355076
-SHA512: c3d57c8bfad4ffed77d5b3da60a16002029413a4417609708c9baf808cfa1a0f08b5cf9d4392d965ca0bb1af20f9d15a8e1a39a3cd108dba86edd2880b603371
+Size: 1432
+MD5Sum: 086bb59defcf48998318cfd37c54e003
+SHA1: 54379df1813b799b326114a8d689d68743b17873
+SHA256: ec29113d314ca8738e0ee9c7aa9e521d79f1fc652371f522f5e9e4cb58e561e2
+SHA512: d9ec668de5d86f24e39633c81912c4879172982969af95de5ebc015ab511f2a399ee2ece989c376c6ca9d9a53b74ed4f740b82340b2f817673f875b6020e4e82
 
 Package: cloudflare
 Architecture: x86_64
 Version: 1.0
-Instx86_64ed-Size: 388
+Installed-Size: 388
 Maintainer: Suman Kumar ~BHUTUU
 Homepage: https://github.com/BHUTUU/cloudflare-ui
 Depends: git, wget, curl, jq
 Description: User interface for cloudflared, an http port forwarding client.
 Filename: dists/bhutuu/main/binary-x86_64/cloudflare.x86_64.deb
-Size: 1284
-MD5Sum: fc3ba409005eba9223d5830947a56f7a
-SHA1: 0e64e199731c39c7d2933064cd4239f45b8151aa
-SHA256: f7748f4387befac309b92501b43d80616cbf73e48304b8036ac873515997b0fa
-SHA512: 9a863add01becbde9c6c28565bf8bb244384d59610e48f4b06a365ea15eafe53bc3f055d4d70e554f9bb42942e8d8d2a65c5cf874c44cf61ff3107c4832a8061
+Size: 1272
+MD5Sum: 93451df1b8eec980b21af205ac0353b9
+SHA1: 158b59fdf4e7ec35823849505293f9f2dfdb0e85
+SHA256: 374838c5c0af40b54fe551bddd56e6835158120b0e09a97bca291db05ff015b6
+SHA512: f9adb67da78e3b43fdc50bab8b6824f2353409bfbbe689171680b91b1cad62050da1e5c28b1b9e072a63cfcd0a85a05992b2df397bb3fc314a64078bd291e152
 
 Package: dictionary
 Architecture: x86_64
 Version: 1.0
-Instx86_64ed-Size: 96
+Installed-Size: 96
 Maintainer: Suman Kumar ~BHUTUU
 Homepage: https://github.com/BHUTUU/dictionary
 Depends: python, python2, pv, sox, git, wget, curl
 Description: A dictionary made in bash and python to find meanings of any word esily using termux command line.
 Filename: dists/bhutuu/main/binary-x86_64/dictionary.x86_64.deb
-Size: 1372
-MD5Sum: fcab4e2e150524b5c9dd8a35a9f1ba02
-SHA1: cd1526d07d7bc0790809c290daad27cd2805e16e
-SHA256: e94da2399fa733b552e439a16dc6327b441826329ce5f7af8c44c1983b1fef30
-SHA512: 4460e626bdc2e64d615fffc08f00852a51d794829a6729507ac676985c0f7511ed5d1f2b72663eda8d2c9eb0b7d85bf58b1aa65caeff37122b4d8c45247efcc1
+Size: 1360
+MD5Sum: 96b0a1834e41cc965da22a14c54e6fa0
+SHA1: faffd5dc55afb3ac1aa52a489065a4f879f7a0a4
+SHA256: dbf06231c4db530df606026847211849d6effb67fa05c6a5a5eb322fe7db0bd4
+SHA512: 944d501bb31d6eb02d7345ed99ab2bfc0312102061c979245bd71d88dbf28d1963173ecd77acf876f37bdf0ff519d0a73070541022075814e929ec5507c74e73
 
 Package: liveserver
 Architecture: x86_64
 Version: 1.0
-Instx86_64ed-Size: 464
+Installed-Size: 464
 Maintainer: Suman Kumar ~BHUTUU
 Homepage: https://github.com/BHUTUU/liveserver
 Depends: php
 Description: A program automating php server for localhost:8080.
 Filename: dists/bhutuu/main/binary-x86_64/liveserver.x86_64.deb
-Size: 1404
-MD5Sum: b70e2d42145ed2e92dd5047fc029025f
-SHA1: 34428ca71a862005a23c29fbe20dbed3f8e600f6
-SHA256: eaa54ac74bf3b9bbb81c38db9c3df40e79c30513190eb0d55f96300967f749b6
-SHA512: e12c7d486f44339d603d34e20540feb2b44a283b3b96264f9693e2c6b887d05bd2ea36aefa69eeb548250ed379a7ae6e0c6f3026027da0f5e95d4eef6b819d87
+Size: 1396
+MD5Sum: 70530043ecb18fabffef3f5f59cd7f8c
+SHA1: 5f148e71295160197d02e65133d8cc7a5d4dc6e6
+SHA256: 5307ac2142c91119c0c4807b3361a60018580bf0b79231bd7dc2bbe2820f5a6e
+SHA512: 04a4bec0942f71e994c55f47c3042331a9b9bbbcd6cbedc639188350cd3adb6524f585059859eb5bee22034f078b3a51839e40796eae1d27253153be92b7a1e5
 

@@ -1,60 +1,60 @@
 Package: TSconsole
 Architecture: i686
 Version: 3.0
-Insti686ed-Size: 96552
+Installed-Size: 96552
 Maintainer: Suman Kumar ~BHUTUU
 Homepage: https://github.com/BHUTUU/TSconsole-framework
 Depends: python, python2, sox, php, pv, proot, ncurses-utils, termux-exec, termux-tools
 Description: A framework of pentesting programs.
 Filename: dists/bhutuu/main/binary-i686/TSconsole-framework.i686.deb
-Size: 1460
-MD5Sum: b204d0be6945062126830cc215b68a7d
-SHA1: c58e30bff7ad4a42c7623db758a0cf02e0bbadc7
-SHA256: 0b739be461e7b8a44218ece46d3241e575881c5d75004abe1b4dcaa3c8c40156
-SHA512: 8395f67d1a60dc8dda68398f04e0c319a6ef64f9522175bc9ec394e3d6994d7816c8ee3a21b2336e97cc5c6ec850303bb54ebaf20db878dbed45b966395c5165
+Size: 1432
+MD5Sum: 7621867f141ba3759c0e8cc241096917
+SHA1: 46be8b51e0aa968c14fa8e0685ae601de5dd0976
+SHA256: 34126024bfd630f9bd279e4d129e2bb2ad85600908b74b8e93ec33b8f141ec81
+SHA512: 37857b5401ce31f1b8e5fe1fa3e2d43ac648f4860bca2ede602c5f26047ab959a6e71620d6aabff2bb4f9716675e655537ce6f9f8c8889088bf8bc8085659fdf
 
 Package: cloudflare
 Architecture: i686
 Version: 1.0
-Insti686ed-Size: 388
+Installed-Size: 388
 Maintainer: Suman Kumar ~BHUTUU
 Homepage: https://github.com/BHUTUU/cloudflare-ui
 Depends: git, wget, curl, jq
 Description: User interface for cloudflared, an http port forwarding client.
 Filename: dists/bhutuu/main/binary-i686/cloudflare.i686.deb
-Size: 1284
-MD5Sum: a8173efb53b00af59f046f65aaa731f1
-SHA1: b2ca133573f635f49b8974f58b38abaf6f0fb4c3
-SHA256: f39aedd46169341d05dd6603b0d8021dd230be011aeb5cca566b08f6938a329c
-SHA512: 5dcfb94a63f68569d8f29b438c427347401940222b7c096e0d150ef92fb76a9faac0597d96f3904922451b612c37bc2674eecddff460bb64a7f4c873dc0a0387
+Size: 1272
+MD5Sum: a9a51419cfa22f5c2ba460bf97119672
+SHA1: 8c848f7a2f87b06ed8834b5ae2c2b68493eba044
+SHA256: eb9ef1f33e5ae9cdba80e4a72ec549887a371353a700b71387352879f1889b6a
+SHA512: 6206019d6cf247e866b95fb3b6a5f36b58517ff4c80208a4eb75de349735063bf83e561d62ebb8c731ba5445bcd227e3eafc027896dff34595c03cc51aa62ab2
 
 Package: dictionary
 Architecture: i686
 Version: 1.0
-Insti686ed-Size: 96
+Installed-Size: 96
 Maintainer: Suman Kumar ~BHUTUU
 Homepage: https://github.com/BHUTUU/dictionary
 Depends: python, python2, pv, sox, git, wget, curl
 Description: A dictionary made in bash and python to find meanings of any word esily using termux command line.
 Filename: dists/bhutuu/main/binary-i686/dictionary.i686.deb
-Size: 1368
-MD5Sum: e7b93dbd31822851068915f7a6e601ec
-SHA1: d14795a82c42af79b33cd69a51bf5cd568507011
-SHA256: 874e78ff97ac3dc82cc29ada2d05891d9fd74b3c43123b876795965ec15fa187
-SHA512: d053ec5d07cd1fd83ccaddd01be812a7cb217b462ad5e57da4daa26fa5ece72066f3a6c4600bc98a4f153dbbeb16c215a9f2f0aee1330ce38b63a838037386cc
+Size: 1360
+MD5Sum: 90cd6570795fdcb49d5470792e7c2d44
+SHA1: d3d332744c69bce490ee9acbce6e1d535c641dc0
+SHA256: 136283ba931a7b3b2e59c199afba3c3e452767d72c7684507684de862ee18f7d
+SHA512: badfff7edf6a68456b43304a85d86d541503f53727877d66062912e1115a501c90db89aedb4aa26be08f81abbfa7d517e54b94874103b8be987fbb0594c77244
 
 Package: liveserver
 Architecture: i686
 Version: 1.0
-Insti686ed-Size: 464
+Installed-Size: 464
 Maintainer: Suman Kumar ~BHUTUU
 Homepage: https://github.com/BHUTUU/liveserver
 Depends: php
 Description: A program automating php server for localhost:8080.
 Filename: dists/bhutuu/main/binary-i686/liveserver.i686.deb
-Size: 1404
-MD5Sum: b8b57da5b20a4c5b1dd3c5a22d7ed346
-SHA1: 666e033b3135afca94006599b056b15b92fc3c13
-SHA256: f5d6207cfdd239fc21df43deb2758d108e5ef51407fa1599ef135e0ae85a4d67
-SHA512: f399d73987c98a896604cef000c563c908b6795ca41ad0d719c09d5bd19b730e87ab1b60b157efedf8b98082293a2db7d8bc6381b53c75923ded09f8d1eb14a9
+Size: 1396
+MD5Sum: ca1580632ba7417e2628cfbc2f02eb6a
+SHA1: 5fc9cc2f22e368f5bfa74ffdf75f4218fbc59781
+SHA256: 5eff8989a3b44b92c9fd180078f8e1a89fa17c088fa6448a2a471ec07cb3fb31
+SHA512: 6bffec796e3223a7c4df665f311073a1329f31d842858c46d6b396ad95cec7a30f3fbf488b37e56adfbc787a3aa6aea95653e8ffbb73397e9d3878fab179bc56
 

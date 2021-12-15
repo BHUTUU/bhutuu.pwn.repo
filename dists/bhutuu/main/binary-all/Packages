@@ -7,11 +7,11 @@ Homepage: https://github.com/BHUTUU/TSconsole-framework
 Depends: python, python2, sox, php, pv, proot, ncurses-utils, termux-exec, termux-tools
 Description: A framework of pentesting programs.
 Filename: dists/bhutuu/main/binary-all/TSconsole-framework.all.deb
-Size: 1456
-MD5Sum: f3ae0c6adde238ce23c8e6f2ca6daa77
-SHA1: b8a9a0719289dfba366f92ceb1f90ca11d6235f8
-SHA256: 741fccbeaf7e9bcbb5d51b8e444a1dc1a355afe46555aae2de3c9fcaa09a0dc0
-SHA512: 16dab93afb90ddd3684902ebc558b5377f18d23ac77421fcdc1cdd790f96d27b7069b3f6e0af93c524a7d591b74e94e1c9fda489226f56bfaf6bb9e38b3d5e53
+Size: 1432
+MD5Sum: 658d0fc877fae2bc7cd3494969656cee
+SHA1: 0440bc0f6e36e2dd4ee0fa7451602206882be5ef
+SHA256: 1423b6b70eaa5675c29731e3065e903568a4deb6fc0935d194038225f7e710d3
+SHA512: 0cc7649695683df3c8ca27491281416dbd886c0db3b9ec9b5637fbe6fffe9dc8837afa42a0451a6233425d74ff0298ae6c3b4cdd0289906eb9ca0e35cc3bc8d9
 
 Package: cloudflare
 Architecture: all
@@ -22,11 +22,11 @@ Homepage: https://github.com/BHUTUU/cloudflare-ui
 Depends: git, wget, curl, jq
 Description: User interface for cloudflared, an http port forwarding client.
 Filename: dists/bhutuu/main/binary-all/cloudflare.all.deb
-Size: 1280
-MD5Sum: b3ad18e3a90c24741b59cd30f164bfd1
-SHA1: 038b6f31726c842cef78621a6d28d0260dd71164
-SHA256: a1dc91cb27cb4f8fd49d2cb4fbf4eb1c3e46f0e92d1a6f4c48a8f9a2b87bed60
-SHA512: 546307acd9724d31c8f85ca31ea6bc100004f031d923735d2fae2a4a2edafd368126816195f5f14a93c00aaf19e94dd80f250106b2fa52b15381084d6d998451
+Size: 1268
+MD5Sum: 643338ac62a4e6d35be43937e55fd643
+SHA1: 5b66e09bd124d6eb99b8b80e9ac8fa66b265d9c3
+SHA256: d7d8043c7b87ced8c07b5ce612b3a8421b7d485dc37c7fe2f5a24fc8662917b5
+SHA512: 781835f804fead639e3a295c4544874ffaffc88ab71ce30390c24e0b055adc8eacf2647a9c2c1ac8a22e494d35f230b110750beea73cda4fca504144110cb6c2
 
 Package: dictionary
 Architecture: all
@@ -37,11 +37,11 @@ Homepage: https://github.com/BHUTUU/dictionary
 Depends: python, python2, pv, sox, git, wget, curl
 Description: A dictionary made in bash and python to find meanings of any word esily using termux command line.
 Filename: dists/bhutuu/main/binary-all/dictionary.all.deb
-Size: 1364
-MD5Sum: e2fcc14e52dd0c0608144091e260f325
-SHA1: 36e7dc07d7af604c0c4e5c9dc68ec666f536b455
-SHA256: 2ead327533463263d4e009a2fd925e6a390ba585802ef94d02bfddb385e2535b
-SHA512: 3481a352541742426474c347fc565a14b06ff49d2c4c57d622b5706f9d33f41eb31c198afbd35d3ae89c5d86bd7389704ca336a463bfcdfd89408328cc224f0c
+Size: 1356
+MD5Sum: d430654819bfddb57952c3601727925e
+SHA1: 0413e0dd0257d4db38c805e989ff7f3dc807ecef
+SHA256: 3ab9f6328bdc620829e8706d40d76f1745df683655e129bdeb8dd47415f3ab6f
+SHA512: 5988ffe48d75873bdb20c734fc9f70aca78b0fd46038e3dd952ffd4bef81e384522379e9a5b0a7818ca98906392795a5ad18d70ac70042bc11db38ffc54e97b5
 
 Package: liveserver
 Architecture: all
@@ -52,9 +52,9 @@ Homepage: https://github.com/BHUTUU/liveserver
 Depends: php
 Description: A program automating php server for localhost:8080.
 Filename: dists/bhutuu/main/binary-all/liveserver.all.deb
-Size: 1404
-MD5Sum: 646067b9e238519ab2a68b0d7f926d43
-SHA1: 3a385dbdd97d09e91acec9bf30238c27de67de15
-SHA256: a785895801f32ea21af1b7fcdb406ba2a7909579d9d3f9f97c3301d843bcaf73
-SHA512: ed6bd4fe67b82e482a039ba67e2d5cf3359739df988579e81e0408f9f1f556f0ba187b4cdcebb90fce0dcbaeac84060b6e1463c4b0d2e9423b4e41de35d77c97
+Size: 1392
+MD5Sum: 1678c34c057b22441e857cac32248095
+SHA1: 7c983887b6f5c9510bfff51b843f4e0027526247
+SHA256: 4003e4f5230488927a2a49ba50227b95ae4abd813eb5107defc6a66e72b7021a
+SHA512: 3017c18eea85858d0619bd64929dd1ceb215395a651066c304cf5a00ef07e9a3721487cdf95d06ac32d8e781262716456d231877d06f982b74118511fbb50219
 

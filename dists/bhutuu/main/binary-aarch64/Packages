@@ -1,60 +1,60 @@
 Package: TSconsole
 Architecture: aarch64
 Version: 3.0
-Instaarch64ed-Size: 96552
+Installed-Size: 96552
 Maintainer: Suman Kumar ~BHUTUU
 Homepage: https://github.com/BHUTUU/TSconsole-framework
 Depends: python, python2, sox, php, pv, proot, ncurses-utils, termux-exec, termux-tools
 Description: A framework of pentesting programs.
 Filename: dists/bhutuu/main/binary-aarch64/TSconsole-framework.aarch64.deb
-Size: 1460
-MD5Sum: 6167098619b11910a09064be71b558b1
-SHA1: e4c39fb8c8906ecdc48c93bb1eb3007642373f2a
-SHA256: 09be6610a6f636c21492a23bb23d75d884ab1aa613f28c396b0cce8c6f89d37d
-SHA512: f8aff86bc3db21fda35e7382d23ef99eb8ed19923aa02ffb2787a1cd91838696aa35d168d692695126d4cfe24f54ec31b6b62a422fd5821f8dbb0e3a6dd2e121
+Size: 1432
+MD5Sum: b52a5e7a565af91b7bcfa0eda7bac133
+SHA1: f7c300ca4366b35563b467ad7ab40a7b243f71a6
+SHA256: fbbdb8ab7e7cb81327f61fcede7e4ee0279998eb4507ccd72642591a1e84001c
+SHA512: e61996be565317cd2a681e644c56db5efc0392ff6dbafd7ff416fe1d91f449a505fc980184eee64490cf339ac23f0a8eca9dd4d162e88a2471a92b3fda93cdce
 
 Package: cloudflare
 Architecture: aarch64
 Version: 1.0
-Instaarch64ed-Size: 388
+Installed-Size: 388
 Maintainer: Suman Kumar ~BHUTUU
 Homepage: https://github.com/BHUTUU/cloudflare-ui
 Depends: git, wget, curl, jq
 Description: User interface for cloudflared, an http port forwarding client.
 Filename: dists/bhutuu/main/binary-aarch64/cloudflare.aarch64.deb
-Size: 1284
-MD5Sum: f4e90edf9937115c8f02a144566c0727
-SHA1: 8e4b18e18b2ee9f3a7e7dd31ea83559d537b7522
-SHA256: fe8b9fa8f28abec5ea97cb2b48544cbd9f40e3e3532829821120df29bd154aae
-SHA512: f61ea2c653d492ee70d233f653bbba99b793f85c191c92e10fc3e66c388c819ad826a79f8586c3d0be0a5665b2bbfbd3a58f48cee2a312e214aa5a25993a25bc
+Size: 1272
+MD5Sum: 7ced39ab71be4117e3a8f7a88a8bef1b
+SHA1: 53bab215fb405c7b2d92a3994400f3b94b2baa24
+SHA256: fd6acf25b04959ed95dbb9b5bc7b7daeedd8a18e95fe0a7b8381365c5b4d25f1
+SHA512: c46f68829ec62bb3da299108930426d41f21b3229d7d75fd9af3f3848abb96662ec9b785c2afc9c2324bc86933008bf2f9e25c8751c0bce2e9e4c34e131fb43c
 
 Package: dictionary
 Architecture: aarch64
 Version: 1.0
-Instaarch64ed-Size: 96
+Installed-Size: 96
 Maintainer: Suman Kumar ~BHUTUU
 Homepage: https://github.com/BHUTUU/dictionary
 Depends: python, python2, pv, sox, git, wget, curl
 Description: A dictionary made in bash and python to find meanings of any word esily using termux command line.
 Filename: dists/bhutuu/main/binary-aarch64/dictionary.aarch64.deb
-Size: 1368
-MD5Sum: 0101896cc36a81666be87d6296d9f043
-SHA1: 5052ff739769e9b86dd6813d2494833ca3c366ca
-SHA256: b921a3c6f68b80c63ae147d81f7908668375a749e3d9d776497b835aef418c29
-SHA512: b2abe894655cda720fc60870ceb17c07864c5fb40738281175b48d8ed5a7f2fc2d716a138d2cd50031f563f484544766e9f5235fdbf1d1263b3f6d9958a1731e
+Size: 1360
+MD5Sum: da30526619efed3fabae7d369745556e
+SHA1: 8c72cf742f52347a81384fda53fe175fdcbe2631
+SHA256: a509cd22c5c4bce4a83fca0dacf7ca46108e2306d3c9ebb48c7e4efd0cbd3ef8
+SHA512: 2943fb717fb4a8bc495b4aa410777ba0c16427c2c69753888a1a10f9adf28135d98abf88f4626aa2bf944be6fe66352c0249b944dba09db73fe4c8df3eef6bf4
 
 Package: liveserver
 Architecture: aarch64
 Version: 1.0
-Instaarch64ed-Size: 464
+Installed-Size: 464
 Maintainer: Suman Kumar ~BHUTUU
 Homepage: https://github.com/BHUTUU/liveserver
 Depends: php
 Description: A program automating php server for localhost:8080.
 Filename: dists/bhutuu/main/binary-aarch64/liveserver.aarch64.deb
-Size: 1404
-MD5Sum: 757423708e898b444d970bf7e19bf424
-SHA1: 78d54d0c33b2580c7ab14c84a77e59d5e3cdf05c
-SHA256: 3edb647c7683ea5555776961d3a33f7667688f0326b28528a324c9796e51d1c0
-SHA512: 542a6ae393c21009007a7401fb4757fd2ca8a15d642dbf8a77f9130494887ccf7e13e1fe6294cb1edd1942fffa96a5deb905a46522e31cc167700fe89b706888
+Size: 1400
+MD5Sum: 4e49a8d2948769bd77319e65089c3396
+SHA1: 607d9d59097911ff414f781135c2f3bee41b610d
+SHA256: aed0d488a791edc5ecb3dfff0dd8fdf435529a303e346089349f871dd9be54ab
+SHA512: 6072edd3d7eddeb4acfeef1c8c5a907c37e28c5d821b4be9fef4065726fc9344da8e03bfd224582e462b7fb0ca3108651c0634be14cade0cb70837d0ee160c08
 
