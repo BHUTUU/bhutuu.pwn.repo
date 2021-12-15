@@ -7,11 +7,11 @@ Homepage: https://github.com/BHUTUU/TSconsole-framework
 Depends: python, python2, sox, php, pv, proot, ncurses-utils, termux-exec, termux-tools
 Description: A framework of pentesting programs.
 Filename: dists/bhutuu/main/binary-x86_64/TSconsole-framework.x86_64.deb
-Size: 1432
-MD5Sum: 086bb59defcf48998318cfd37c54e003
-SHA1: 54379df1813b799b326114a8d689d68743b17873
-SHA256: ec29113d314ca8738e0ee9c7aa9e521d79f1fc652371f522f5e9e4cb58e561e2
-SHA512: d9ec668de5d86f24e39633c81912c4879172982969af95de5ebc015ab511f2a399ee2ece989c376c6ca9d9a53b74ed4f740b82340b2f817673f875b6020e4e82
+Size: 1456
+MD5Sum: 3c5b7e19aab10de9ab77ab1c93369b2b
+SHA1: c56419ca6e4688dd1e893a4c5c0a3f40a5243c1c
+SHA256: d71afa1de3ebd531a81bebbd8648c37aec4bc26dc6e190d02c40b0e39deeed79
+SHA512: ee137b545aa4aa8fe503f9d2c75198be28f25870520147feca6d84b64814cea7a3fd255b5e8c06b4c31fe3964e3f2c30baa06863da131c83632ac08c34567783
 
 Package: cloudflare
 Architecture: x86_64
@@ -23,10 +23,10 @@ Depends: git, wget, curl, jq
 Description: User interface for cloudflared, an http port forwarding client.
 Filename: dists/bhutuu/main/binary-x86_64/cloudflare.x86_64.deb
 Size: 1272
-MD5Sum: 93451df1b8eec980b21af205ac0353b9
-SHA1: 158b59fdf4e7ec35823849505293f9f2dfdb0e85
-SHA256: 374838c5c0af40b54fe551bddd56e6835158120b0e09a97bca291db05ff015b6
-SHA512: f9adb67da78e3b43fdc50bab8b6824f2353409bfbbe689171680b91b1cad62050da1e5c28b1b9e072a63cfcd0a85a05992b2df397bb3fc314a64078bd291e152
+MD5Sum: 6b986d233e21ad7e7ad87d7ef5861a55
+SHA1: 5a6390096a5bd6e2e8ae3b24d7a1e5ffc951d753
+SHA256: 6a8a6b0ef7fbbcecb333a50b59b289ee7cec71739089ca5920b687c5ab75429a
+SHA512: 452b03e9df97fbefb650509eb769ad473f4a395a9f0419386129a1e282e1c083efd35bd5066368e0985962e081fe47f720e2b5827d48dd2c127549d1b5b5c914
 
 Package: dictionary
 Architecture: x86_64
@@ -38,10 +38,10 @@ Depends: python, python2, pv, sox, git, wget, curl
 Description: A dictionary made in bash and python to find meanings of any word esily using termux command line.
 Filename: dists/bhutuu/main/binary-x86_64/dictionary.x86_64.deb
 Size: 1360
-MD5Sum: 96b0a1834e41cc965da22a14c54e6fa0
-SHA1: faffd5dc55afb3ac1aa52a489065a4f879f7a0a4
-SHA256: dbf06231c4db530df606026847211849d6effb67fa05c6a5a5eb322fe7db0bd4
-SHA512: 944d501bb31d6eb02d7345ed99ab2bfc0312102061c979245bd71d88dbf28d1963173ecd77acf876f37bdf0ff519d0a73070541022075814e929ec5507c74e73
+MD5Sum: 085b58d3b8bb40cb6cf5ab76df17c700
+SHA1: d556ceb4a27cf0447acd0c3952b8ee9f823d3eef
+SHA256: d54911e4f8b91bf1bbf917bc7d086c18e2ae981ac180076eab8630b135b36d2b
+SHA512: 549aac130ca8d1b07a14224b4e31ae530e1247da0d99031ebb073254283ba16024e615720de18b2e1a6f397f9fc2a7d2eda98377ac2091b62b971fab446df04b
 
 Package: liveserver
 Architecture: x86_64
@@ -53,8 +53,8 @@ Depends: php
 Description: A program automating php server for localhost:8080.
 Filename: dists/bhutuu/main/binary-x86_64/liveserver.x86_64.deb
 Size: 1396
-MD5Sum: 70530043ecb18fabffef3f5f59cd7f8c
-SHA1: 5f148e71295160197d02e65133d8cc7a5d4dc6e6
-SHA256: 5307ac2142c91119c0c4807b3361a60018580bf0b79231bd7dc2bbe2820f5a6e
-SHA512: 04a4bec0942f71e994c55f47c3042331a9b9bbbcd6cbedc639188350cd3adb6524f585059859eb5bee22034f078b3a51839e40796eae1d27253153be92b7a1e5
+MD5Sum: f86ae8680a2100a4f790ee92e1d04520
+SHA1: b6801459cd3e24521c39c5b163bedad430f5f57f
+SHA256: e42e7050fb66ba014b63dfbc786996558b6647d020d514173da7ef03e9b3d115
+SHA512: 446b48706983aceddedc9bb6e92e889201fba7bca6423b4e9196916b11c56139521c3fb7f5e68b1c213d25b445bb908035563eaf714ac2714a1562029ff99089
 
