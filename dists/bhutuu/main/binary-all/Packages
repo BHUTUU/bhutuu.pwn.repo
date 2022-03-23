@@ -8,10 +8,10 @@ Depends: python, python2, sox, php, pv, proot, ncurses-utils, termux-exec, termu
 Description: A framework of pentesting programs.
 Filename: dists/bhutuu/main/binary-all/TSconsole-framework.all.deb
 Size: 1452
-MD5Sum: 44399a54bc165660b8324ae33ebdf83c
-SHA1: ba60bb4dc9c3b485a7231835c57a545cf7b134c9
-SHA256: d0fd9ef6269df4f8b390688cd4b04002c7f7015485ef92e5bcf79a7587f453c0
-SHA512: b74c05999774ea0f7c07a3ad8a14d99193888736968096f82e73e107755ca3646ee4c83ff9cac1a228f8b8e4cbcbed8abff7ae1e8dfbe9b76c18b0816780589c
+MD5Sum: 92293fafdc8d4cad4e1cb9a87a04645b
+SHA1: f3db2f81526c76124eedaa0161efe0a4b3867f80
+SHA256: 74d1942aec7d4408d3eb57e242c2d8550d3ef179f71673ef3a658cab9171c5be
+SHA512: 4235fe3a4064f6c9f7f2f15d560e06e7119df1adc5ef9d8498cb97922f0578656c6eca3d9f566ed291fe36b8483f5b75e030d063781b316a3fb342bd39791adf
 
 Package: cloudflare
 Architecture: all
@@ -23,10 +23,10 @@ Depends: git, wget, curl, jq
 Description: User interface for cloudflared, an http port forwarding client.
 Filename: dists/bhutuu/main/binary-all/cloudflare.all.deb
 Size: 1268
-MD5Sum: 4176deb3c902851e35009a453f6f6657
-SHA1: 9bbd64b18c18a04c3a611d7a62f00b932b20ecbb
-SHA256: 7982fff3baa3cfe2050bbaf78328a1ac3cd40cd91a207b0d126cc7228fb2c0a0
-SHA512: 7db9aac9eb5ada5f746298f9d15c0ed52e1a907ffea6cc489befc3beff09b3706e5ef793bf9293c18b25eb2da6b3174f21a60c654b5ae46d0d5fe308c0f1951b
+MD5Sum: 2cc619ddd51a9b7fbc97b9edd7250c98
+SHA1: 8ab9d2ea9074240653a15ba0fb3e19732909daaa
+SHA256: f33515138fa311f23bac74b4e801f267f0d24cb8a9237c66509b92d71b806c8c
+SHA512: 2f4dbccd70b7df7a02d6696aaab3a1ed2483f1f55dda515b1c7bb785bc04191bd60ff825f5ae23f5471fdf97015f755f3449359e07aee463e3e1a73b3cce41c7
 
 Package: dictionary
 Architecture: all
@@ -38,23 +38,23 @@ Depends: python, python2, pv, sox, git, wget, curl
 Description: A dictionary made in bash and python to find meanings of any word esily using termux command line.
 Filename: dists/bhutuu/main/binary-all/dictionary.all.deb
 Size: 1356
-MD5Sum: 8ed4334e5fcf6596f44fbfadd786d4dc
-SHA1: e4591110bec7bb01cd74cf66ecd4947a47fedcf4
-SHA256: 6d4bcafd71898ed1beef9e8b36881290c65db0f427c7406fe65de937e4c4e4ad
-SHA512: bce9fd08f06477abed788a3c0b1862aeee571b6d73107d39d48337bd8d46473de5fec536efd699ca203ff578d16955b98691ce38180cb93a97470cb1d02d4b83
+MD5Sum: bc982c841c24f8dba1a459f490521399
+SHA1: 394bb0d5668c4a58f79c04a1c1270bca279dfd7d
+SHA256: 859c15f8efdefba808c03743a87374df1989c4cf1e12dc17cf3ccff041badb08
+SHA512: c282248730e1d8a11cfa14ae348d7dd59a0aba1306d203dbeaa6e2f4bc3a44ba410c3ad3aec0d980b2232031a0d26b70b41ee054942c3afa29507aa890ca39e2
 
 Package: liveserver
 Architecture: all
-Version: 1.0
-Installed-Size: 464
+Version: 2.0
+Installed-Size: 484
 Maintainer: Suman Kumar ~BHUTUU
 Homepage: https://github.com/BHUTUU/liveserver
-Depends: php
-Description: A program automating php server for localhost:8080.
+Depends: php, git
+Description: A program automating php server and cloudflare for desired ports.
 Filename: dists/bhutuu/main/binary-all/liveserver.all.deb
-Size: 1396
-MD5Sum: a0170fff745f8ad507eb6d929466dcb5
-SHA1: 06cabf3ef0d7104a5b18ab4ea281c841d2f3058c
-SHA256: 6d6f5451d03917387f8302c412cdc7eb95aa9429560866ce2ac35319a877e69c
-SHA512: a3c8a3503726ee9cf10d97a18bf2ed56e569663dc07efeadc373cc624b2e1ebafc729e1e761ab69e635bcfd692da8c8d56ea15fd66af2febf2fcc665d29553c5
+Size: 1224
+MD5Sum: a12b4ce22466c524ee377e708400f6fd
+SHA1: a6f27cdc38166db88be5449908d1bcd258eadf04
+SHA256: 24a156e235d815a359789124b5f0e7c90e8c984db0683b6ad6ef24d72579659a
+SHA512: a23bd0bd17ad8e76e773b86dc8beceefc046eaa30cfd31a0e43ae38617fd1d390520f54e0562ec8fc717df9dc6aa6ac711f86c41f019a229b646e0457afe5fdb
 

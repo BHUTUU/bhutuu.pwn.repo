@@ -24,6 +24,7 @@ deb [trusted=yes] https://bhutuu.github.io/bhutuu.pwn.repo/ bhutuu main
 CONF
   wget -q https://bhutuu.github.io/bhutuu.pwn.repo/bhutuu.key -O bhutuu.key
   apt-key add bhutuu.key
+  cp -r $PREFIX/etc/apt/trusted.gpg $PREFIX/etc/apt/trusted.gpg.d/trusted.gpg > /dev/null 2>&1
   apt-get update -yq --silent
   printf "\n${S2}BHUTUU APT REPOSITORY IS SUCCESSFULLY ADDED${R0}\n"
   printf "\n\n${S6}just run '${B1}apt install PROGRAM_NAME${R1}${S6}' to install a valid program!${R0}\n"
